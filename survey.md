@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color: Blue
+Favorite food: Shawarma
+Favorite musician/band: country
+Favorite movie: Die hard
+Requested grade in the course: 100
